@@ -1,7 +1,7 @@
 # PWA-Text-Editor
 
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-https://lbesson.mit-license.org/
+![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+
 
 ## Description
 
